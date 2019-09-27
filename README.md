@@ -1,1 +1,1 @@
-# Skola_informatika
+Ovo je novi školski projekt.
